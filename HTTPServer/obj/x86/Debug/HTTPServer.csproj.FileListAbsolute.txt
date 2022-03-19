@@ -1,0 +1,8 @@
+C:\Users\CITY MALL\Downloads\Template[2021-2022]\HTTPServer\bin\Debug\HTTPServer.exe.config
+C:\Users\CITY MALL\Downloads\Template[2021-2022]\HTTPServer\bin\Debug\HTTPServer.exe
+C:\Users\CITY MALL\Downloads\Template[2021-2022]\HTTPServer\bin\Debug\HTTPServer.pdb
+C:\Users\CITY MALL\Downloads\Template[2021-2022]\HTTPServer\obj\x86\Debug\HTTPServer.csproj.AssemblyReference.cache
+C:\Users\CITY MALL\Downloads\Template[2021-2022]\HTTPServer\obj\x86\Debug\HTTPServer.csproj.SuggestedBindingRedirects.cache
+C:\Users\CITY MALL\Downloads\Template[2021-2022]\HTTPServer\obj\x86\Debug\HTTPServer.csproj.CoreCompileInputs.cache
+C:\Users\CITY MALL\Downloads\Template[2021-2022]\HTTPServer\obj\x86\Debug\HTTPServer.exe
+C:\Users\CITY MALL\Downloads\Template[2021-2022]\HTTPServer\obj\x86\Debug\HTTPServer.pdb
